@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="kubetainers-parent-pom" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="de.dksbrunner.kubetainers.Application" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="de.dksbrunner.kubetainers.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
